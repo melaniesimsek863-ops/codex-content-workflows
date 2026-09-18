@@ -1,0 +1,20 @@
+{
+  "profile_name": "",
+  "account_voice": {
+    "target_reader": "",
+    "reader_promise": "",
+    "vocabulary": [],
+    "rhythm": "",
+    "emotional_range": "",
+    "evidence_standard": ""
+  },
+  "source_samples": [],
+  "transferable_mechanisms": [],
+  "source_specific_elements_to_avoid": [],
+  "fusion_rules": [],
+  "similarity_review": {
+    "status": "pending",
+    "flagged_items": []
+  },
+  "updated_at": ""
+}

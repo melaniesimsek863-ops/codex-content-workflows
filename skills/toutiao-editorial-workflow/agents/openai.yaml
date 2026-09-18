@@ -1,0 +1,4 @@
+interface:
+  display_name: "今日头条创作工作流"
+  short_description: "头条选题、风格研究、证据写作、质检、归档与数据复盘"
+  default_prompt: "使用 $toutiao-editorial-workflow 完成多源风格研究、证据写作、人工发布审核和数据复盘。"

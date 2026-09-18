@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Comic Drama Writer"
+  short_description: "Create AI comic and short-drama scripts"
+  default_prompt: "Use $ai-comic-drama-writer to turn my story idea into an AI comic drama script."

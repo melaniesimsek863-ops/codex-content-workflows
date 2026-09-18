@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cangjie Book Skills"
+  short_description: "Use local Cangjie book-derived skills"
+  default_prompt: "Use $cangjie-book-skills to apply a book-derived method from the local Cangjie skill pack."
